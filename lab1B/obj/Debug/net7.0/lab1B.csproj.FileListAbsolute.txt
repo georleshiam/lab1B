@@ -1,0 +1,15 @@
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.csproj.AssemblyReference.cache
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.AssemblyInfoInputs.cache
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.AssemblyInfo.cs
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.csproj.CoreCompileInputs.cache
+C:\Users\Student-3\source\repos\lab1B\lab1B\bin\Debug\net7.0\lab1B.exe
+C:\Users\Student-3\source\repos\lab1B\lab1B\bin\Debug\net7.0\lab1B.deps.json
+C:\Users\Student-3\source\repos\lab1B\lab1B\bin\Debug\net7.0\lab1B.runtimeconfig.json
+C:\Users\Student-3\source\repos\lab1B\lab1B\bin\Debug\net7.0\lab1B.dll
+C:\Users\Student-3\source\repos\lab1B\lab1B\bin\Debug\net7.0\lab1B.pdb
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.dll
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\refint\lab1B.dll
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.pdb
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\lab1B.genruntimeconfig.cache
+C:\Users\Student-3\source\repos\lab1B\lab1B\obj\Debug\net7.0\ref\lab1B.dll
