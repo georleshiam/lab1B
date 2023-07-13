@@ -61,7 +61,10 @@
             array.Length);
             string randomIndex = Console.ReadLine();
             int randomIndexInt = Int32.Parse(randomIndex)- 1;
-
+            if (randomIndexInt > array.Length)
+            {
+                throw new Exception("Out of Range!");
+            }
             int randomNumber = array[randomIndexInt];
             Console.WriteLine("Random number is: {0}", randomNumber);
             int product = randomNumber * sum;
@@ -71,12 +74,16 @@
         static decimal GetQuotient(int product)
         {
             //promt user for number to divide it  by
-            Console.WriteLine("Give me a number to divide the product by");
+            Console.WriteLine("Give me a number to divide the product by.");
             string userInput = Console.ReadLine();
             int divisor = Int32.Parse(userInput);
+            if (divisor ==0)
+            {
+                throw new Exception("Out of Range!");
+            }
             decimal quotient = product / divisor;
 
-            Console.WriteLine("This is the Quotient: {0]", quotient);
+            Console.WriteLine("This is the Quotient: {0}", quotient);
             return quotient;
         }
         }
